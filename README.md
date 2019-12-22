@@ -1,2 +1,3 @@
 # EasySimulatedClick
 简单的模拟点击发送消息的app
+可以查看com.example.sourcecodeview.SimulatedClickService文件
