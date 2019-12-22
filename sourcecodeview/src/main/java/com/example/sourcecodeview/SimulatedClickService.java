@@ -17,6 +17,7 @@ import java.util.Objects;
  *
  * 使用Android无障碍功能，完成模拟点击。
  * 自动发送消息。
+ * 使用时在无障碍界面开启该应用的服务。然后打开soul聊天界面即可
  */
 public class SimulatedClickService extends AccessibilityService {
     private final static String TAG = "SimulatedClickService";
